@@ -1,0 +1,15 @@
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.Resources.resources
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.vbproj.GenerateResource.Cache
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.vbprojResolveAssemblyReference.cache
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.Infragistics.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.Infragistics.pdb
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.Infragistics.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Core.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Core.pdb
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Core.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.pdb
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\bin\Debug\BoomCycle.Windows.Forms.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Windows.Forms.Infragistics\obj\Debug\BoomCycle.Windows.Forms.Infragistics.pdb

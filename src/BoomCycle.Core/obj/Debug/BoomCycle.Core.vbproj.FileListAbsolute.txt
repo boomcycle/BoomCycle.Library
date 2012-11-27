@@ -1,0 +1,8 @@
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\bin\Debug\BoomCycle.Core.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\bin\Debug\BoomCycle.Core.pdb
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\bin\Debug\BoomCycle.Core.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\obj\Debug\BoomCycle.Core.Resources.resources
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\obj\Debug\BoomCycle.Core.vbproj.GenerateResource.Cache
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\obj\Debug\BoomCycle.Core.dll
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\obj\Debug\BoomCycle.Core.xml
+C:\dev\BoomCycle\BoomCycle.Library\BoomCycle.Core\obj\Debug\BoomCycle.Core.pdb

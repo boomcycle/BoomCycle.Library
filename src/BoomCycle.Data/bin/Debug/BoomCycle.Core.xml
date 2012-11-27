@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BoomCycle.Core
+</name>
+</assembly>
+<members>
+<member name="M:BoomCycle.Core.BoomCycleExceptionBase.#ctor(System.String)">
+	<summary>
+ This is the contructor for our custom exception not based on a .net framework exception
+ </summary>
+	<param name="message"></param>
+	<remarks></remarks>
+</member><member name="M:BoomCycle.Core.BoomCycleExceptionBase.#ctor(System.String,System.Exception)">
+	<summary>
+ '''This is the contructor for our custom exception based on a .net framework exception
+ </summary>
+	<param name="message"></param>
+	<param name="originalException"></param>
+	<remarks></remarks>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.AFF_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.AFF_Logo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.AFF_Logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.AFP_Logo_Top">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.AFPLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:BoomCycle.Core.My.Resources.Resources.MutualLogo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:BoomCycle.Core.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
